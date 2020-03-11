@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="308bdbf8-3889-4aa0-9a8c-2b1273474c64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/AddTwoNumbers$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/AddTwoNumbers$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/AddTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ContainerWithMostWater$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ContainerWithMostWater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/DivideTwoIntegers$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/DivideTwoIntegers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ImplementStrstr$KMP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ImplementStrstr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/IntegerToRoman$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/IntegerToRoman$Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/IntegerToRoman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/LongestCommonPrefix$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/LongestCommonPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/LongestPalindromicSubstring$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/LongestPalindromicSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/MergeTwoSortedLists$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/MergeTwoSortedLists$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/MergeTwoSortedLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/NextPermutation$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/NextPermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/PalindromeNumber$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/PalindromeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RemoveDuplicatesFromSortedArray$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RemoveElement$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RemoveElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RemoveNthNodeFromEndOfList$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RemoveNthNodeFromEndOfList$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RemoveNthNodeFromEndOfList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ReverseInteger$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ReverseInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RomanToInteger$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/RomanToInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/SearchInRotatedSortedArray$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/SearchInRotatedSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/StringToIntegerAtoi$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/StringToIntegerAtoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/SwapNodesInPairs$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/SwapNodesInPairs$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/SwapNodesInPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ThreeSum$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ThreeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ThreeSumClosest$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ThreeSumClosest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/TwoSum$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ValidParentheses$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ValidParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ZigzagConversion$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/ZigzagConversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tintin/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ContainerWithMostWater .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/DivideTwoIntegers .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ImplementStrstr .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/IntegerToRoman .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/LongestCommonPrefix .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/LongestPalindromicSubstring .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/MergeTwoSortedLists .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/NextPermutation .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/PalindromeNumber .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/RemoveDuplicatesFromSortedArray .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/RemoveElement .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/RemoveNthNodeFromEndOfList .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ReverseInteger .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/RomanToInteger .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/SearchInRotatedSortedArray .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/StringToIntegerAtoi .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/SwapNodesInPairs .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ThreeSum .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ThreeSumClosest .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ValidParentheses .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ZigzagConversion .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/translation.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leetcode" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WA0RHTOPIjsbGBMmzLILeHhlcv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.SearchInRotatedSortedArray">
+    <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.DivideTwoIntegers" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementStrstr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.ImplementStrstr" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.NextPermutation" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.RemoveDuplicatesFromSortedArray" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.SearchInRotatedSortedArray" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchInRotatedSortedArray" />
+        <item itemvalue="Application.NextPermutation" />
+        <item itemvalue="Application.DivideTwoIntegers" />
+        <item itemvalue="Application.ImplementStrstr" />
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="308bdbf8-3889-4aa0-9a8c-2b1273474c64" name="Default Changelist" comment="" />
+      <created>1578577081126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578577081126</updated>
+      <workItem from="1578577084064" duration="1329000" />
+      <workItem from="1578643648209" duration="71000" />
+      <workItem from="1579095177936" duration="4506000" />
+      <workItem from="1579099838849" duration="919000" />
+      <workItem from="1579140483885" duration="615000" />
+      <workItem from="1579186437680" duration="552000" />
+      <workItem from="1579235742304" duration="797000" />
+      <workItem from="1579352943195" duration="2378000" />
+      <workItem from="1579407823843" duration="671000" />
+      <workItem from="1580122295066" duration="194000" />
+      <workItem from="1580279751358" duration="617000" />
+      <workItem from="1580653710430" duration="703000" />
+      <workItem from="1580706178757" duration="31000" />
+      <workItem from="1580712776935" duration="7146000" />
+      <workItem from="1580782932010" duration="13000" />
+      <workItem from="1580783527583" duration="14432000" />
+      <workItem from="1580861811665" duration="9130000" />
+      <workItem from="1580960432381" duration="2489000" />
+      <workItem from="1580971655257" duration="1703000" />
+      <workItem from="1580985367436" duration="6005000" />
+      <workItem from="1581046956172" duration="8329000" />
+      <workItem from="1581074724355" duration="8202000" />
+      <workItem from="1581141133644" duration="6947000" />
+      <workItem from="1581151180685" duration="2065000" />
+      <workItem from="1581160918890" duration="37000" />
+      <workItem from="1581238563048" duration="828000" />
+      <workItem from="1582859516612" duration="48000" />
+      <workItem from="1582881828913" duration="5295000" />
+      <workItem from="1582972488821" duration="46000" />
+      <workItem from="1582972573166" duration="3112000" />
+      <workItem from="1583069740932" duration="4137000" />
+      <workItem from="1583154438335" duration="146000" />
+      <workItem from="1583577331983" duration="3846000" />
+      <workItem from="1583581854459" duration="3046000" />
+      <workItem from="1583654259421" duration="1004000" />
+      <workItem from="1583669531940" duration="3547000" />
+      <workItem from="1583747573440" duration="5427000" />
+      <workItem from="1583845403464" duration="4012000" />
+      <workItem from="1583931817419" duration="4082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="29" key="#Notifications" timestamp="1580720431260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="29" key="#Notifications/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1580720431260" />
+    <state x="2192" y="26" key="#Notifications/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579354458124" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1583071393906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583071393906" />
+    <state x="906" y="241" key="#xdebugger.evaluate" timestamp="1583751897592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="906" y="241" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583751897592" />
+    <state x="191" y="175" key="FileChooserDialogImpl" timestamp="1583936276119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="191" y="175" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936276119" />
+    <state x="2303" y="174" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1580280442420" />
+    <state x="432" y="197" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580782943793" />
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1583936340456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340456" />
+    <state width="1354" height="694" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="144" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1583936340454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340454" />
+    <state width="1354" height="694" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="144" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1583936340454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340454" />
+    <state width="1354" height="694" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="144" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1583936340455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340454" />
+    <state width="1354" height="694" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="144" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
+    <state width="1506" height="548" key="GridCell.Tab.1.bottom" timestamp="1583936041138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1506" height="548" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1512" height="772" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
+    <state width="1506" height="548" key="GridCell.Tab.1.center" timestamp="1583936041138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1506" height="548" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1512" height="772" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
+    <state width="1506" height="548" key="GridCell.Tab.1.left" timestamp="1583936041138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1506" height="548" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1512" height="772" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
+    <state width="1506" height="548" key="GridCell.Tab.1.right" timestamp="1583936041138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1506" height="548" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1512" height="772" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
+    <state x="259" y="58" width="1251" height="708" key="SettingsEditor" timestamp="1582972556850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="259" y="58" key="SettingsEditor/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1582972556850" />
+    <state x="285" y="108" width="1251" height="708" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578578214052" />
+    <state x="178" y="117" key="new project wizard" timestamp="1580906658519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="117" key="new project wizard/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1580906658519" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1581084091496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1581084091496" />
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1582883967426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1582883967426" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/LongestPalindromicSubstring .java</url>
+          <line>53</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ZigzagConversion .java</url>
+          <line>84</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ZigzagConversion .java</url>
+          <line>69</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ReverseInteger .java</url>
+          <line>39</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ReverseInteger .java</url>
+          <line>30</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/StringToIntegerAtoi .java</url>
+          <line>80</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/IntegerToRoman .java</url>
+          <line>72</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ThreeSum .java</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ThreeSum .java</url>
+          <line>42</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ThreeSumClosest .java</url>
+          <line>32</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ThreeSumClosest .java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/RemoveNthNodeFromEndOfList .java</url>
+          <line>42</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/ImplementStrstr .java</url>
+          <line>44</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/DivideTwoIntegers .java</url>
+          <line>41</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/NextPermutation .java</url>
+          <line>31</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/SearchInRotatedSortedArray .java</url>
+          <line>52</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/SearchInRotatedSortedArray .java</url>
+          <line>34</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
