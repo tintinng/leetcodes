@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="308bdbf8-3889-4aa0-9a8c-2b1273474c64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="308bdbf8-3889-4aa0-9a8c-2b1273474c64" name="Default Changelist" comment="squash! first commit">
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/dp/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/dp/MaxmumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/dp/UniquePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +72,22 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.SearchInRotatedSortedArray">
-    <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.DivideTwoIntegers" />
+  <component name="RunManager" selected="Application.ClimbingStairs">
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.dp.ClimbingStairs" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tintin.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindFirstAndLastPositionOfElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.FindFirstAndLastPositionOfElementInSortedArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementStrstr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.ImplementStrstr" />
+    <configuration name="MaxmumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.dp.MaxmumSubArray" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tintin.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.SearchInsertPosition" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -96,38 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.NextPermutation" />
+    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.dp.UniquePaths" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.RemoveDuplicatesFromSortedArray" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.leetcode.editor.cn.SearchInRotatedSortedArray" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tintin.leetcode.editor.cn.*" />
+          <option name="PATTERN" value="com.tintin.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchInRotatedSortedArray" />
-        <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.DivideTwoIntegers" />
-        <item itemvalue="Application.ImplementStrstr" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+        <item itemvalue="Application.ClimbingStairs" />
+        <item itemvalue="Application.UniquePaths" />
+        <item itemvalue="Application.MaxmumSubArray" />
+        <item itemvalue="Application.SearchInsertPosition" />
+        <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +208,14 @@
       <workItem from="1583669531940" duration="3547000" />
       <workItem from="1583747573440" duration="5427000" />
       <workItem from="1583845403464" duration="4012000" />
-      <workItem from="1583931817419" duration="4609000" />
+      <workItem from="1583931817419" duration="5503000" />
+      <workItem from="1583989447539" duration="490000" />
+      <workItem from="1584013024718" duration="1942000" />
+      <workItem from="1584099303191" duration="1459000" />
+      <workItem from="1584156540164" duration="5922000" />
+      <workItem from="1584169295517" duration="1465000" />
+      <workItem from="1584437919806" duration="4173000" />
+      <workItem from="1584509704393" duration="6155000" />
     </task>
     <task id="LOCAL-00001" summary="record all">
       <created>1583936477812</created>
@@ -214,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583936477812</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="34\35">
+      <created>1584161454198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584161454198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +242,35 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -233,7 +278,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="record all" />
-    <option name="LAST_COMMIT_MESSAGE" value="record all" />
+    <MESSAGE value="34\35" />
+    <option name="LAST_COMMIT_MESSAGE" value="34\35" />
   </component>
   <component name="WindowStateProjectService">
     <state x="307" y="29" key="#Notifications" timestamp="1583936786515">
@@ -241,6 +287,10 @@
     </state>
     <state x="307" y="29" key="#Notifications/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936786515" />
     <state x="2192" y="26" key="#Notifications/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579354458124" />
+    <state x="488" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584438366894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584438366894" />
     <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1583071393906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -249,66 +299,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="906" y="241" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583751897592" />
-    <state x="345" y="9" key="CommitChangelistDialog2" timestamp="1583936477212">
+    <state x="345" y="9" key="CommitChangelistDialog2" timestamp="1584161453594">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="345" y="9" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936477212" />
-    <state x="147" y="71" key="DiffContextDialog" timestamp="1583936660824">
+    <state x="345" y="9" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584161453594" />
+    <state x="147" y="71" width="1228" height="685" key="DiffContextDialog" timestamp="1584162864072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="71" key="DiffContextDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936660824" />
-    <state x="191" y="175" key="FileChooserDialogImpl" timestamp="1583936276119">
+    <state x="147" y="71" width="1228" height="685" key="DiffContextDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584162864072" />
+    <state x="191" y="175" key="FileChooserDialogImpl" timestamp="1584163067131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="191" y="175" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936276119" />
+    <state x="191" y="175" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584163067131" />
     <state x="2303" y="174" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1580280442420" />
     <state x="432" y="197" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580782943793" />
-    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1583936340456">
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1584529553017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340456" />
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584529553017" />
     <state width="1354" height="694" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1493" height="144" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1583936340454">
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1584529553017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340454" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584529553017" />
     <state width="1354" height="694" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1493" height="144" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1583936340454">
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1584529553017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340454" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584529553017" />
     <state width="1354" height="694" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1493" height="144" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1583936340455">
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1584529553017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936340454" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584529553017" />
     <state width="1354" height="694" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1493" height="144" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1506" height="548" key="GridCell.Tab.1.bottom" timestamp="1583936041138">
+    <state width="1354" height="694" key="GridCell.Tab.1.bottom" timestamp="1584514593615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1506" height="548" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584514593615" />
     <state width="1354" height="694" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1512" height="772" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
-    <state width="1506" height="548" key="GridCell.Tab.1.center" timestamp="1583936041138">
+    <state width="1354" height="694" key="GridCell.Tab.1.center" timestamp="1584514593615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1506" height="548" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584514593615" />
     <state width="1354" height="694" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1512" height="772" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
-    <state width="1506" height="548" key="GridCell.Tab.1.left" timestamp="1583936041138">
+    <state width="1354" height="694" key="GridCell.Tab.1.left" timestamp="1584514593615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1506" height="548" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584514593615" />
     <state width="1354" height="694" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1512" height="772" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
-    <state width="1506" height="548" key="GridCell.Tab.1.right" timestamp="1583936041138">
+    <state width="1354" height="694" key="GridCell.Tab.1.right" timestamp="1584514593615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1506" height="548" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936041138" />
+    <state width="1354" height="694" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584514593615" />
     <state width="1354" height="694" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
     <state width="1512" height="772" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
     <state x="259" y="58" width="1251" height="708" key="SettingsEditor" timestamp="1582972556850">
@@ -316,10 +366,14 @@
     </state>
     <state x="259" y="58" key="SettingsEditor/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1582972556850" />
     <state x="285" y="108" width="1251" height="708" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578578214052" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1583936671547">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1584161464238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1583936671547" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584161464238" />
+    <state x="499" y="183" key="extract.method.dialog" timestamp="1584512850445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="183" key="extract.method.dialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584512850445" />
     <state x="489" y="215" key="git4idea.merge.GitPullDialog" timestamp="1583936615937">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -332,10 +386,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1581084091496" />
-    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1582883967426">
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1584529249377">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1582883967426" />
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584529249377" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -424,6 +478,16 @@
           <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/SearchInRotatedSortedArray .java</url>
           <line>34</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray .java</url>
+          <line>46</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/dp/UniquePaths.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
