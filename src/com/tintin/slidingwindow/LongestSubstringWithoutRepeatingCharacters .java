@@ -24,12 +24,10 @@
 // Related Topics 哈希表 双指针 字符串 Sliding Window
 
   
-  package com.tintin.leetcode.editor.cn;
+  package com.tintin.slidingwindow;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 class LongestSubstringWithoutRepeatingCharacters{
       public static void main(String[] args) {
