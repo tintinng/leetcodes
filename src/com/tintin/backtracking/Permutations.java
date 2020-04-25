@@ -1,6 +1,7 @@
 package com.tintin.backtracking;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Permutations{
@@ -17,12 +18,12 @@ class Solution46{
         if(nums == null){
             return lists;
         }
-        lists = new ArrayList<>();
+        lists = new LinkedList<>();
         int totalCount = 1;
         for(int i=2;i<=nums.length;i++){
             totalCount *= i;
         }
-        backtrack(new ArrayList<>(),nums,totalCount);
+        backtrack(new LinkedList<>(),nums,totalCount);
 
         return lists;
     }
@@ -32,7 +33,7 @@ class Solution46{
             return;
         }
         if(list.size()==nums.length){
-            lists.add(new ArrayList<>(list));
+            lists.add(new LinkedList<>(list));
             return;
         }
         for(int j=0;j<nums.length;j++){

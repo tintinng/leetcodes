@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308bdbf8-3889-4aa0-9a8c-2b1273474c64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/arrayandcollection/ValidSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/backtracking/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/backtracking/CombinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/backtracking/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/math/BinarySqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/strings/AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/strings/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/backtracking/Permutations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/heap/TopKFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/heap/UglyNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/HouseRobber3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/PathSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/PathSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tintin/backtracking/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tintin/backtracking/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tintin/bfs/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tintin/bfs/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tintin/bfs/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tintin/bfs/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +75,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Projects/JavaDemos" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -77,17 +83,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tintin.tree" />
       <recent name="com.tintin.dfs" />
       <recent name="com.tintin.dfs.nodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiplyStrings">
-    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.strings.AddStrings" />
+  <component name="RunManager" selected="Application.PathSum2">
+    <configuration name="HouseRobber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.tree.HouseRobber3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.strings.*" />
+          <option name="PATTERN" value="com.tintin.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.math.BinarySqrt" />
+    <configuration name="PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.tree.PathSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.math.*" />
+          <option name="PATTERN" value="com.tintin.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.backtracking.CombinationSum2" />
+    <configuration name="PathSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.tree.PathSum2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.backtracking.*" />
+          <option name="PATTERN" value="com.tintin.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.strings.MultiplyStrings" />
+    <configuration name="PathSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.tree.PathSum3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.strings.*" />
+          <option name="PATTERN" value="com.tintin.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.backtracking.Permutations" />
+    <configuration name="SumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.tree.SumOfLeftLeaves" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.backtracking.*" />
+          <option name="PATTERN" value="com.tintin.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiplyStrings" />
-        <item itemvalue="Application.AddStrings" />
-        <item itemvalue="Application.BinarySqrt" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.CombinationSum2" />
+        <item itemvalue="Application.PathSum2" />
+        <item itemvalue="Application.PathSum" />
+        <item itemvalue="Application.PathSum3" />
+        <item itemvalue="Application.HouseRobber3" />
+        <item itemvalue="Application.SumOfLeftLeaves" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +260,16 @@
       <workItem from="1586142719011" duration="6355000" />
       <workItem from="1586258874013" duration="2436000" />
       <workItem from="1586508291231" duration="4644000" />
+      <workItem from="1586514645349" duration="237000" />
+      <workItem from="1586572024808" duration="8548000" />
+      <workItem from="1586780064957" duration="22000" />
+      <workItem from="1587352808908" duration="3888000" />
+      <workItem from="1587446967524" duration="621000" />
+      <workItem from="1587516690216" duration="14000" />
+      <workItem from="1587533101039" duration="4908000" />
+      <workItem from="1587630284814" duration="8763000" />
+      <workItem from="1587698340628" duration="6581000" />
+      <workItem from="1587812665296" duration="9873000" />
     </task>
     <task id="LOCAL-00001" summary="record all">
       <created>1583936477812</created>
@@ -289,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585727267046</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leetcode-backtracking:39\40\46&#10;leetcode-math\string：43\415&#10;二分查找求精度">
+      <created>1586514789423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586514789423</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +358,8 @@
     <MESSAGE value="leetcode-dp:53\62\63\70" />
     <MESSAGE value="leetcode-bfs:101\102\103\107&#10;leetcode-recur:111&#10;leetcode-dp:91\64" />
     <MESSAGE value="leetcode-backtracking:17&#10;leetcode-slidingwindows:424\76&#10;leetcode-twopoints:28&#10;&#10;\正则表达式\01背包\栈（加减乘除）" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode-backtracking:17&#10;leetcode-slidingwindows:424\76&#10;leetcode-twopoints:28&#10;&#10;\正则表达式\01背包\栈（加减乘除）" />
+    <MESSAGE value="leetcode-backtracking:39\40\46&#10;leetcode-math\string：43\415&#10;二分查找求精度" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode-backtracking:39\40\46&#10;leetcode-math\string：43\415&#10;二分查找求精度" />
   </component>
   <component name="WindowStateProjectService">
     <state x="307" y="29" key="#Notifications" timestamp="1583936786515">
@@ -350,89 +375,101 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1585633637634" />
-    <state x="2086" y="83" width="490" height="583" key="#xdebugger.evaluate" timestamp="1586514421949">
+    <state x="2086" y="83" width="490" height="583" key="#xdebugger.evaluate" timestamp="1586577665595">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state x="2086" y="83" width="490" height="583" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514421949" />
+    <state x="2086" y="83" width="490" height="583" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586577665595" />
     <state x="487" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585279504002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1585279504002" />
-    <state x="345" y="9" key="CommitChangelistDialog2" timestamp="1585727266396">
+    <state x="345" y="9" key="CommitChangelistDialog2" timestamp="1586514788546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="345" y="9" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1585727266396" />
-    <state x="147" y="71" width="1228" height="685" key="DiffContextDialog" timestamp="1585727239632">
+    <state x="345" y="9" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514788546" />
+    <state x="147" y="71" width="1228" height="685" key="DiffContextDialog" timestamp="1586514761040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="71" width="1228" height="685" key="DiffContextDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1585727239632" />
-    <state x="191" y="175" key="FileChooserDialogImpl" timestamp="1584595642375">
+    <state x="147" y="71" width="1228" height="685" key="DiffContextDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514761040" />
+    <state x="191" y="175" key="FileChooserDialogImpl" timestamp="1587632901821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="191" y="175" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1584595642375" />
+    <state x="191" y="175" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583016623" />
     <state x="2303" y="174" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1580280442420" />
+    <state x="191" y="175" key="FileChooserDialogImpl/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587632901821" />
     <state x="432" y="197" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580782943793" />
-    <state width="1241" height="636" key="GridCell.Tab.0.bottom" timestamp="1586514493999">
+    <state width="1493" height="111" key="GridCell.Tab.0.bottom" timestamp="1587823775838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1493" height="110" key="GridCell.Tab.0.bottom/0.0.1536.824/-1360.0.1360.728@0.0.1536.824" timestamp="1587375161122" />
+    <state width="1241" height="636" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023591" />
     <state width="1354" height="694" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="111" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823775838" />
     <state width="1493" height="144" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1241" height="636" key="GridCell.Tab.0.center" timestamp="1586514493999">
+    <state width="1493" height="111" key="GridCell.Tab.0.center" timestamp="1587823775838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1493" height="110" key="GridCell.Tab.0.center/0.0.1536.824/-1360.0.1360.728@0.0.1536.824" timestamp="1587375161122" />
+    <state width="1241" height="636" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023591" />
     <state width="1354" height="694" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="111" key="GridCell.Tab.0.center/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823775838" />
     <state width="1493" height="144" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1241" height="636" key="GridCell.Tab.0.left" timestamp="1586514493999">
+    <state width="1493" height="111" key="GridCell.Tab.0.left" timestamp="1587823775838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1493" height="110" key="GridCell.Tab.0.left/0.0.1536.824/-1360.0.1360.728@0.0.1536.824" timestamp="1587375161122" />
+    <state width="1241" height="636" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023591" />
     <state width="1354" height="694" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="111" key="GridCell.Tab.0.left/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823775838" />
     <state width="1493" height="144" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1241" height="636" key="GridCell.Tab.0.right" timestamp="1586514493999">
+    <state width="1493" height="111" key="GridCell.Tab.0.right" timestamp="1587823775838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1493" height="110" key="GridCell.Tab.0.right/0.0.1536.824/-1360.0.1360.728@0.0.1536.824" timestamp="1587375161122" />
+    <state width="1241" height="636" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023591" />
     <state width="1354" height="694" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="1493" height="111" key="GridCell.Tab.0.right/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823775838" />
     <state width="1493" height="144" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581058819131" />
-    <state width="1241" height="636" key="GridCell.Tab.1.bottom" timestamp="1586514493999">
+    <state width="792" height="395" key="GridCell.Tab.1.bottom" timestamp="1587823404306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1241" height="636" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023592" />
     <state width="1354" height="694" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="792" height="395" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823404306" />
     <state width="1512" height="772" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
-    <state width="1241" height="636" key="GridCell.Tab.1.center" timestamp="1586514493999">
+    <state width="792" height="395" key="GridCell.Tab.1.center" timestamp="1587823404306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1241" height="636" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023592" />
     <state width="1354" height="694" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="792" height="395" key="GridCell.Tab.1.center/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823404306" />
     <state width="1512" height="772" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
-    <state width="1241" height="636" key="GridCell.Tab.1.left" timestamp="1586514493999">
+    <state width="792" height="395" key="GridCell.Tab.1.left" timestamp="1587823404306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1241" height="636" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023592" />
     <state width="1354" height="694" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="792" height="395" key="GridCell.Tab.1.left/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823404306" />
     <state width="1512" height="772" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
-    <state width="1241" height="636" key="GridCell.Tab.1.right" timestamp="1586514493999">
+    <state width="792" height="395" key="GridCell.Tab.1.right" timestamp="1587823404306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1241" height="636" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514493999" />
+    <state width="1241" height="636" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586583023592" />
     <state width="1354" height="694" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1579355419813" />
+    <state width="792" height="395" key="GridCell.Tab.1.right/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587823404306" />
     <state width="1512" height="772" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581058746285" />
     <state x="421" y="126" key="RollbackChangesDialog" timestamp="1585635169307">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="421" y="126" key="RollbackChangesDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1585635169307" />
-    <state x="259" y="58" width="1251" height="708" key="SettingsEditor" timestamp="1582972556850">
+    <state x="259" y="0" width="1251" height="708" key="SettingsEditor" timestamp="1586577836289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="259" y="58" key="SettingsEditor/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1582972556850" />
-    <state x="285" y="108" width="1251" height="708" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578578214052" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1585727274804">
+    <state x="259" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586577836289" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1586514856869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1585727274804" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1586514856869" />
     <state x="499" y="183" key="extract.method.dialog" timestamp="1584512850445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -445,14 +482,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="117" key="new project wizard/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1580906658519" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1581084091496">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587701103560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1581084091496" />
-    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1585721693685">
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587701103560" />
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1587821090425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1585721693685" />
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1587821090425" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,6 +625,36 @@
           <url>file://$PROJECT_DIR$/src/com/tintin/strings/MultiplyStrings.java</url>
           <line>24</line>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/heap/TopKFrequentElements.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/heap/TopKFrequentElements.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/heap/TopKFrequentElements.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/heap/TopKFrequentElements.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/heap/UglyNumber2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/tree/PathSum2.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/tintin/backtracking/Backpack01.java</url>
