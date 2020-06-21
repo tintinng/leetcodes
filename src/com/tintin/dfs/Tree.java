@@ -1,4 +1,4 @@
-package com.tintin.tree;
+package com.tintin.dfs;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -29,7 +29,7 @@ public class Tree {
     public Tree(String[] nums){
         TreeNode curParent = new TreeNode(Integer.parseInt(nums[0]));
         // 使用map存储数组下标和treenode的对应
-        Map<Integer,TreeNode> map = new HashMap<>();
+        Map<Integer, TreeNode> map = new HashMap<>();
         map.put(0,curParent);
         root = curParent;
         for(int i=0;i<nums.length;i++){
