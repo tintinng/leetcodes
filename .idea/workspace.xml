@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="308bdbf8-3889-4aa0-9a8c-2b1273474c64" name="Default Changelist" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/linkedList/Offer24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/linkedList/Offer25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Offer26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Offer27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Offer28.java" afterDir="false" />
+    <list default="true" id="308bdbf8-3889-4aa0-9a8c-2b1273474c64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/arrayandcollection/Offer39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/backtracking/Offer38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/dp/Offer42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/dp/Offer46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/heap/Offer40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/linkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/linkedList/Offer35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/math/Offer43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/math/Offer45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/sort/QuickSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/stack/Offer30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/stack/Offer31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Offer31_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Offer32_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Offer33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tintin/tree/Offer34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="216" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -80,13 +94,13 @@
       <recent name="com.tintin.dfs.nodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Offer28">
-    <configuration name="Offer22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.linkedList.Offer22" />
+  <component name="RunManager" selected="Application.Offer46">
+    <configuration name="Offer40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.heap.Offer40" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.linkedList.*" />
+          <option name="PATTERN" value="com.tintin.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.linkedList.Offer24" />
+    <configuration name="Offer43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.math.Offer43" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.linkedList.*" />
+          <option name="PATTERN" value="com.tintin.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.linkedList.Offer25" />
+    <configuration name="Offer45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.math.Offer45" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.linkedList.*" />
+          <option name="PATTERN" value="com.tintin.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.tree.Offer27" />
+    <configuration name="Offer46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.dp.Offer46" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.tree.*" />
+          <option name="PATTERN" value="com.tintin.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tintin.tree.Offer28" />
+    <configuration name="QuickSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tintin.sort.QuickSortTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tintin.tree.*" />
+          <option name="PATTERN" value="com.tintin.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Offer28" />
-        <item itemvalue="Application.Offer27" />
-        <item itemvalue="Application.Offer25" />
-        <item itemvalue="Application.Offer24" />
-        <item itemvalue="Application.Offer22" />
+        <item itemvalue="Application.Offer46" />
+        <item itemvalue="Application.Offer45" />
+        <item itemvalue="Application.Offer43" />
+        <item itemvalue="Application.Offer40" />
+        <item itemvalue="Application.QuickSortTest" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +324,20 @@
       <workItem from="1596201711163" duration="3226000" />
       <workItem from="1596337622799" duration="2253000" />
       <workItem from="1596445545449" duration="2635000" />
-      <workItem from="1596546871072" duration="1930000" />
+      <workItem from="1596546871072" duration="1987000" />
+      <workItem from="1596598127691" duration="634000" />
+      <workItem from="1596635758968" duration="2492000" />
+      <workItem from="1596696133209" duration="4172000" />
+      <workItem from="1596785495728" duration="8718000" />
+      <workItem from="1596852698664" duration="3337000" />
+      <workItem from="1596875164750" duration="1893000" />
+      <workItem from="1596935514312" duration="5933000" />
+      <workItem from="1596976859258" duration="1736000" />
+      <workItem from="1597022650197" duration="2548000" />
+      <workItem from="1597068016555" duration="1669000" />
+      <workItem from="1597106539239" duration="8035000" />
+      <workItem from="1597129581977" duration="1590000" />
+      <workItem from="1597226266668" duration="8363000" />
     </task>
     <task id="LOCAL-00001" summary="record all">
       <created>1583936477812</created>
@@ -389,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595154385418</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="leetcode">
+      <created>1596549206671</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596549206671</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,80 +484,91 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="61" y="206" key="#xdebugger.evaluate/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592300040648" />
-    <state x="345" y="9" key="CommitChangelistDialog2" timestamp="1595772568779">
+    <state x="345" y="9" key="CommitChangelistDialog2" timestamp="1596549206031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="345" y="9" key="CommitChangelistDialog2/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1595772568779" />
     <state x="345" y="9" key="CommitChangelistDialog2/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1591365147922" />
-    <state width="1493" height="105" key="GridCell.Tab.0.bottom" timestamp="1596548192264">
+    <state x="345" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596549206031" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1597024533802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="105" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597024533802" />
+    <state width="1493" height="107" key="GridCell.Tab.0.bottom" timestamp="1597237570998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="107" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237570998" />
     <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428151" />
-    <state width="1493" height="105" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596548192264" />
-    <state width="1493" height="105" key="GridCell.Tab.0.center" timestamp="1596548192264">
+    <state width="1493" height="105" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state width="1493" height="107" key="GridCell.Tab.0.center" timestamp="1597237570997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="105" key="GridCell.Tab.0.center/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state width="1493" height="107" key="GridCell.Tab.0.center/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237570997" />
     <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428151" />
-    <state width="1493" height="105" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596548192264" />
-    <state width="1493" height="105" key="GridCell.Tab.0.left" timestamp="1596548192264">
+    <state width="1493" height="105" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state width="1493" height="107" key="GridCell.Tab.0.left" timestamp="1597237570997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="105" key="GridCell.Tab.0.left/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state width="1493" height="107" key="GridCell.Tab.0.left/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237570997" />
     <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428151" />
-    <state width="1493" height="105" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596548192264" />
-    <state width="1493" height="105" key="GridCell.Tab.0.right" timestamp="1596548192264">
+    <state width="1493" height="105" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state width="1493" height="107" key="GridCell.Tab.0.right" timestamp="1597237570997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="105" key="GridCell.Tab.0.right/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state width="1493" height="107" key="GridCell.Tab.0.right/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237570997" />
     <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428151" />
-    <state width="1493" height="105" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596548192264" />
-    <state width="1086" height="784" key="GridCell.Tab.1.bottom" timestamp="1596547988024">
+    <state width="1493" height="105" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state width="1086" height="784" key="GridCell.Tab.1.bottom" timestamp="1597237502903">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1086" height="784" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state width="1086" height="784" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237502903" />
     <state width="1086" height="784" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428142" />
-    <state width="1086" height="784" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596547988024" />
-    <state width="1086" height="784" key="GridCell.Tab.1.center" timestamp="1596547988024">
+    <state width="1086" height="784" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state width="1086" height="784" key="GridCell.Tab.1.center" timestamp="1597237502901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1086" height="784" key="GridCell.Tab.1.center/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state width="1086" height="784" key="GridCell.Tab.1.center/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237502901" />
     <state width="1086" height="784" key="GridCell.Tab.1.center/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428142" />
-    <state width="1086" height="784" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596547988024" />
-    <state width="1086" height="784" key="GridCell.Tab.1.left" timestamp="1596547988024">
+    <state width="1086" height="784" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state width="1086" height="784" key="GridCell.Tab.1.left" timestamp="1597237502901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1086" height="784" key="GridCell.Tab.1.left/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state width="1086" height="784" key="GridCell.Tab.1.left/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237502901" />
     <state width="1086" height="784" key="GridCell.Tab.1.left/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428142" />
-    <state width="1086" height="784" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596547988024" />
-    <state width="1086" height="784" key="GridCell.Tab.1.right" timestamp="1596547988024">
+    <state width="1086" height="784" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state width="1086" height="784" key="GridCell.Tab.1.right" timestamp="1597237502902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1086" height="784" key="GridCell.Tab.1.right/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596448540300" />
+    <state width="1086" height="784" key="GridCell.Tab.1.right/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597237502902" />
     <state width="1086" height="784" key="GridCell.Tab.1.right/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1592317428142" />
-    <state width="1086" height="784" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596547988024" />
-    <state x="421" y="126" key="RollbackChangesDialog" timestamp="1590932336891">
+    <state width="1086" height="784" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596638265359" />
+    <state x="421" y="126" key="RollbackChangesDialog" timestamp="1596876807550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="421" y="126" key="RollbackChangesDialog/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596876807550" />
     <state x="421" y="126" key="RollbackChangesDialog/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1590932336891" />
     <state x="259" y="0" width="1251" height="708" key="SettingsEditor" timestamp="1590562259842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="259" y="0" key="SettingsEditor/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1590562259842" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1595154393649">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1596549230997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1595154393649" />
     <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1591365154459" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596549230997" />
+    <state x="178" y="120" key="new project wizard" timestamp="1596785539486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="120" key="new project wizard/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596785539486" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1596202246547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1596202246547" />
-    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1594349565783">
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1597236377069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1594349565783" />
+    <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.304.1360.728@0.0.1536.824" timestamp="1597236377069" />
     <state x="667" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.682.1360.728@0.0.1536.824" timestamp="1591866879468" />
   </component>
   <component name="XDebuggerManager">
@@ -730,9 +775,19 @@
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tintin/tree/Offer28.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="102" />
+          <url>file://$PROJECT_DIR$/src/com/tintin/tree/Offer33.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/math/Offer45.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tintin/dp/Offer46.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/tintin/backtracking/Backpack01.java</url>
@@ -753,6 +808,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$MoveZeros.ic" NAME="MoveZeros Coverage Results" MODIFIED="1590563287633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.tintin.arrayandcollection.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode$Offer42.ic" NAME="Offer42 Coverage Results" MODIFIED="1597069621137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tintin.dp.*</FILTER>
     </SUITE>
   </component>
 </project>
